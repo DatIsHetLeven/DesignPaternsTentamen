@@ -1,0 +1,4 @@
+C:\Users\Murat\Desktop\maken g\DesignPatterns-tentamen\Opgave1\obj\Debug\net20\Opgave1.csprojAssemblyReference.cache
+C:\Users\Murat\Desktop\maken g\DesignPatterns-tentamen\Opgave1\obj\Debug\net20\Opgave1.csproj.CoreCompileInputs.cache
+C:\Users\Murat\Desktop\maken g\DesignPatterns-tentamen\Opgave1\obj\Debug\net20\Opgave1.AssemblyInfoInputs.cache
+C:\Users\Murat\Desktop\maken g\DesignPatterns-tentamen\Opgave1\obj\Debug\net20\Opgave1.AssemblyInfo.cs

@@ -1,0 +1,58 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.6.1": {},
+    ".NETFramework,Version=v4.6.1/win7-x86": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.6.1": []
+  },
+  "packageFolders": {
+    "C:\\Users\\Murat\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Murat\\Desktop\\maken g\\MuratCelemDesignPatternsTentamen\\DesignPatterns-tentamen\\Opgave2\\Opgave2.csproj",
+      "projectName": "Opgave2",
+      "projectPath": "C:\\Users\\Murat\\Desktop\\maken g\\MuratCelemDesignPatternsTentamen\\DesignPatterns-tentamen\\Opgave2\\Opgave2.csproj",
+      "packagesPath": "C:\\Users\\Murat\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Murat\\Desktop\\maken g\\MuratCelemDesignPatternsTentamen\\DesignPatterns-tentamen\\Opgave2\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Murat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net461"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net461": {
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net461": {}
+    },
+    "runtimes": {
+      "win7-x86": {
+        "#import": []
+      }
+    }
+  }
+}

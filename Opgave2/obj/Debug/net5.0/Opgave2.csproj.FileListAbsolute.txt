@@ -1,0 +1,16 @@
+C:\Users\bartk\source\repos\DesignPatterns-tentamen\Opgave2\bin\Debug\net5.0\Opgave2.exe
+C:\Users\bartk\source\repos\DesignPatterns-tentamen\Opgave2\bin\Debug\net5.0\Opgave2.deps.json
+C:\Users\bartk\source\repos\DesignPatterns-tentamen\Opgave2\bin\Debug\net5.0\Opgave2.runtimeconfig.json
+C:\Users\bartk\source\repos\DesignPatterns-tentamen\Opgave2\bin\Debug\net5.0\Opgave2.runtimeconfig.dev.json
+C:\Users\bartk\source\repos\DesignPatterns-tentamen\Opgave2\bin\Debug\net5.0\Opgave2.dll
+C:\Users\bartk\source\repos\DesignPatterns-tentamen\Opgave2\bin\Debug\net5.0\ref\Opgave2.dll
+C:\Users\bartk\source\repos\DesignPatterns-tentamen\Opgave2\bin\Debug\net5.0\Opgave2.pdb
+C:\Users\bartk\source\repos\DesignPatterns-tentamen\Opgave2\obj\Debug\net5.0\Opgave2.csprojAssemblyReference.cache
+C:\Users\bartk\source\repos\DesignPatterns-tentamen\Opgave2\obj\Debug\net5.0\Opgave2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bartk\source\repos\DesignPatterns-tentamen\Opgave2\obj\Debug\net5.0\Opgave2.AssemblyInfoInputs.cache
+C:\Users\bartk\source\repos\DesignPatterns-tentamen\Opgave2\obj\Debug\net5.0\Opgave2.AssemblyInfo.cs
+C:\Users\bartk\source\repos\DesignPatterns-tentamen\Opgave2\obj\Debug\net5.0\Opgave2.csproj.CoreCompileInputs.cache
+C:\Users\bartk\source\repos\DesignPatterns-tentamen\Opgave2\obj\Debug\net5.0\Opgave2.dll
+C:\Users\bartk\source\repos\DesignPatterns-tentamen\Opgave2\obj\Debug\net5.0\ref\Opgave2.dll
+C:\Users\bartk\source\repos\DesignPatterns-tentamen\Opgave2\obj\Debug\net5.0\Opgave2.pdb
+C:\Users\bartk\source\repos\DesignPatterns-tentamen\Opgave2\obj\Debug\net5.0\Opgave2.genruntimeconfig.cache
